@@ -10,7 +10,7 @@ This project demonstrates an end-to-end finance data pipeline, transforming raw 
 
 The pipeline consists of:
 
-Data ingestion using Python (Pandas)
+Data ingestion using Python
 Data transformation and storage in SQL (Staging → DWH → Mart)
 Data modeling using Star Schema
 Visualization using Power BI dashboards
