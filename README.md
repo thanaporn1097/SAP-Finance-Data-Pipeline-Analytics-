@@ -4,6 +4,11 @@
 
 This project demonstrates an end-to-end finance data pipeline, transforming raw SAP datasets into structured analytical datasets for financial reporting and decision-making.
 
+**Dataset Source:**
+
+SAP DATASET | BigQuery Dataset from Kaggle
+https://www.kaggle.com/datasets/mustafakeser4/sap-dataset-bigquery-dataset/data
+
 ⚙️ **Architecture**
 
 <img width="1536" height="1024" alt="Data Architecture_SAP_Finance_Project" src="https://github.com/user-attachments/assets/9a65cc0f-6103-4d21-aab7-030eb36711b3" />
