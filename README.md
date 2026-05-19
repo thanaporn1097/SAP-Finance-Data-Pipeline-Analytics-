@@ -26,6 +26,7 @@ A star schema was designed to support financial analysis:
 
 Fact table: fact_gl_postings
 Dimensions: dim_company, dim_customer, dim_month, dim_date, dim_profit_center, dim_gl_account, dim_account_mapping
+Mart: pl_monthly
 
 🧪 **Data Quality**
 
