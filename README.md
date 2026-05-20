@@ -26,6 +26,7 @@ A star schema was designed to support financial analysis:
 
 Fact table: fact_gl_postings
 Dimensions: dim_company, dim_customer, dim_month, dim_date, dim_profit_center, dim_gl_account, dim_account_mapping
+
 Mart: pl_monthly
 <img width="1392" height="387" alt="image" src="https://github.com/user-attachments/assets/1a6dde32-bd62-4f1a-9fd1-57e501b0ba42" />
 
@@ -45,7 +46,10 @@ data_validation_log
 Developed Power BI dashboards to analyze:
 
 Executive Summary
+<img width="1301" height="730" alt="image" src="https://github.com/user-attachments/assets/3530e92f-b007-4135-9740-b06b00b06613" />
+
 P&L Monthly
+<img width="1292" height="726" alt="image" src="https://github.com/user-attachments/assets/151ce01c-4dbe-4a40-b958-bcf85db79f90" />
 
 🚀 Impact
 Reduced manual reporting time by ~90%
