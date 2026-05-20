@@ -46,11 +46,11 @@ data_validation_log
 Developed Power BI dashboards to analyze:
 
 Executive Summary
-<img width="1291" height="726" alt="image" src="https://github.com/user-attachments/assets/a1ddab31-3c2a-458b-a802-b62501077b10" />
+<img width="1296" height="722" alt="image" src="https://github.com/user-attachments/assets/639e3b5c-83c3-4e65-b5eb-2fa6183c1f4f" />
 
 
 P&L Monthly
-<img width="1296" height="720" alt="image" src="https://github.com/user-attachments/assets/da3746d2-2832-4945-86df-95514086c04b" />
+<img width="1287" height="720" alt="image" src="https://github.com/user-attachments/assets/840b7d83-a066-4a0b-9cce-dbd6b0c6cf4d" />
 
 
 🚀 Impact
