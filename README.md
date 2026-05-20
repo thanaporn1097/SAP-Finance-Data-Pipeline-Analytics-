@@ -27,12 +27,18 @@ A star schema was designed to support financial analysis:
 Fact table: fact_gl_postings
 Dimensions: dim_company, dim_customer, dim_month, dim_date, dim_profit_center, dim_gl_account, dim_account_mapping
 Mart: pl_monthly
+<img width="1392" height="387" alt="image" src="https://github.com/user-attachments/assets/1a6dde32-bd62-4f1a-9fd1-57e501b0ba42" />
 
 🧪 **Data Quality**
 
 Implemented validation checks:
-data_validation_log
+
 pipeline_run_log
+<img width="1092" height="117" alt="image" src="https://github.com/user-attachments/assets/649e5134-89ce-4cf2-9a65-dc0235e106bf" />
+
+data_validation_log
+<img width="1252" height="382" alt="image" src="https://github.com/user-attachments/assets/48877248-d5c4-46e2-a15f-09952cf97cfe" />
+
 
 📊 Dashboard
 
