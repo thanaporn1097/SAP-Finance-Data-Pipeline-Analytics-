@@ -46,10 +46,12 @@ data_validation_log
 Developed Power BI dashboards to analyze:
 
 Executive Summary
-<img width="1301" height="730" alt="image" src="https://github.com/user-attachments/assets/3530e92f-b007-4135-9740-b06b00b06613" />
+<img width="1291" height="726" alt="image" src="https://github.com/user-attachments/assets/a1ddab31-3c2a-458b-a802-b62501077b10" />
+
 
 P&L Monthly
-<img width="1292" height="726" alt="image" src="https://github.com/user-attachments/assets/151ce01c-4dbe-4a40-b958-bcf85db79f90" />
+<img width="1296" height="720" alt="image" src="https://github.com/user-attachments/assets/da3746d2-2832-4945-86df-95514086c04b" />
+
 
 🚀 Impact
 Reduced manual reporting time by ~90%
